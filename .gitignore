@@ -1,0 +1,8 @@
+*/Binaries
+*/Includes
+*/Inc
+*/Startup
+*/Debug
+*/*.launch
+*/*.ld
+.metadata
